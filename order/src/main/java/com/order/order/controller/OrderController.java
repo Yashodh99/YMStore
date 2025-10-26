@@ -35,4 +35,9 @@ public class OrderController {
     public String deleteOrder(@PathVariable Integer orderId){
         return orderService.deleteOrder(orderId);
     }
+
+    @PostMapping
+    public OrderDTO createOrder(@RequestBody OrderDTO orderDTO){
+        return orderService.addOrder(orderDTO);
+    }
 }
