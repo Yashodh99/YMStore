@@ -40,5 +40,11 @@
         <artifactId>modelmapper</artifactId>
         <version>3.2.5</version>
     </dependency>
+        <dependency>
+            <groupId>com.pm</groupId>
+            <artifactId>base</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 </project>
