@@ -20,6 +20,7 @@
         <module>product</module>
         <module>base</module>
         <module>discoveryservice</module>
+        <module>apigateway</module>
     </modules>
 
     <properties>
