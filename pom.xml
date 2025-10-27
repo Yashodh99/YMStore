@@ -19,7 +19,6 @@
         <module>inventory</module>
         <module>product</module>
         <module>base</module>
-        <module>base</module>
     </modules>
 
     <build>
