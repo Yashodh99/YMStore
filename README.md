@@ -1,3 +1,6 @@
+
+<img width="1536" height="1024" alt="ChatGPT Image Nov 21, 2025, 11_42_46 AM" src="https://github.com/user-attachments/assets/a651f210-e70f-417e-9c2f-8d35f9241329" />
+
 # YMStore
 
 YMStore is a multi-module Java backend project for an online store. It includes separate services for products, inventory, orders, an API gateway, and service discovery.
