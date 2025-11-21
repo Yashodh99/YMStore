@@ -65,24 +65,3 @@ mvn spring-boot:run
 cd prometheus
 docker compose up
 ```
-
-## Project Structure
-
-```
-YMStore/
-├── apigateway/
-├── base/
-├── discoveryservice/
-├── inventory/
-├── order/
-├── product/
-├── prometheus/
-└── pom.xml
-```
-
-## Basic API Usage (through gateway)
-
-- GET `/api/products`
-- GET `/api/products/{id}`
-- GET `/api/inventory/{productId}`
-- POST `/api/orders`
